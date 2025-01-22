@@ -1,5 +1,4 @@
-Buy Groceries
-Throw trash
-Clean Room
-Fix Floor
-Clean the bag
+Do the laundry.
+Help the neighbour.
+Fix the bike.
+Learn Python.
